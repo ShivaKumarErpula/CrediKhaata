@@ -76,7 +76,7 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 📝 License
 This project is licensed under the MIT License.
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Shiva.
 
 yaml
 Copy
@@ -84,10 +84,6 @@ Edit
 
 ---
 
-Let me know if you want a logo, badges (build, license, etc.), or a short demo video embedded too.
-## 📦 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/credikhaata.git
-   cd credikhaata
+
+
